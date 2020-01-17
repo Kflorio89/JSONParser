@@ -1,0 +1,12 @@
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\JSONParser\JSONParser\bin\Debug\JSONParser.exe.config
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\JSONParser\JSONParser\bin\Debug\JSONParser.exe
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\JSONParser\JSONParser\bin\Debug\JSONParser.pdb
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\JSONParser\JSONParser\obj\Debug\JSONParser.csprojAssemblyReference.cache
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\JSONParser\JSONParser\obj\Debug\JSONParser.Form1.resources
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\JSONParser\JSONParser\obj\Debug\JSONParser.Properties.Resources.resources
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\JSONParser\JSONParser\obj\Debug\JSONParser.csproj.GenerateResource.cache
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\JSONParser\JSONParser\obj\Debug\JSONParser.exe
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\JSONParser\JSONParser\obj\Debug\JSONParser.pdb
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\JSONParser\JSONParser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\JSONParser\JSONParser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\JSONParser\JSONParser\obj\Debug\JSONParser.csproj.CopyComplete
